@@ -1,2 +1,2 @@
 # rust-dailyprogrammer
-solve reddit.com/r/dailyprogrammer in rust
+solve [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer) in rust
